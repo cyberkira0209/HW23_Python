@@ -1,0 +1,5 @@
+x=int(input("Введіть вік Тетянки "))
+y=int(input("Введіть вік Міті "))
+print((x+y)/2)
+print(abs((x+y)/2-x))
+print(abs((x+y)/2-y))
